@@ -1,14 +1,14 @@
 <?php
 
 // By default, this sample code is designed to get the result from your ActiveCampaign installation and print out the result
-$url = 'http://account.api-us1.com';
+$url = 'https://contentu575.api-us1.com';
 
 
 $params = array(
 
     // the API Key can be found on the "Your Settings" page under the "API" tab.
     // replace this with your API Key
-    'api_key'      => 'YOUR_API_KEY',
+    'api_key'      => '618242c28c992d0ffcf1b2489b7a8d0df995115a0e1ba159e80776391348f2ac8b7c5fe6',
 
     // this is the action that gets tasks
     'api_action'   => 'tags_list',
